@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harsh.nexxigital.com/](https://harsh.nexxigital.com/)
 
-- 💬 Ask me about **Cybersecurity, Product Development, Digital Marketing**
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, Product Development, Digital Marketing, Graphics Designing**
 
 - 📫 How to reach me **harshsandilya09@gmail.com**
 
