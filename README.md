@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Sandilya a.k.a rooter09</h1>
-<h3 align="center">🚀 Cybersecurity Researcher & Analyst | VAPT Trainee | Full Stack Developer | Digital Marketing Expert </h3>
+<h3 align="center"> 🕵️‍♂️ Cybersecurity Researcher & Analyst | VAPT Trainee | Full Stack Developer | Digital Marketing Expert </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rooter09&label=Profile%20views&color=0e75b6&style=flat" alt="rooter09" />
