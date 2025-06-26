@@ -55,8 +55,10 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [Portfolio & Projects](https://harsh.nexxigital.com/)
-- 🔒 [URL Security Analysis Toolkit](https://github.com/rooter09/UrlScanToolKit) - CyberSec CLI Scanner
+- 🔗 [Portfolio & Projects](https://harshsandilya.vercel.app//)
+- 🔒 [URL Security Analysis Toolkit](https://github.com/rooter09/UrlScanToolKit) - HACKED YOU - A CYBERSECURITY TOOL
+- 🕵️ [Steganography Tool](https://github.com/rooter09/Tool-Steganography) - Embed & Extract Hidden Messages
+- 🔐 [Password Generator](https://github.com/rooter09/Password-Generator) with Strength Checker and Encrypted Storage
 - 🎨 UI/UX Bootcamp Trainer - Amity University Patna
 
 ---
